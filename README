@@ -1,0 +1,23 @@
+command for download laravel
+
+- "composer create-project laravel/laravel:^10.0 example-app"
+
+command for start server
+
+- "php artisan serve"
+
+command for view route
+
+- "php artisan route:list"
+
+command for make migration
+
+- "php artisan make:migration create_users_table"
+
+command for migrate
+
+- "php artisan migrate"
+
+command for make model
+
+- "php artisan make:model User"
